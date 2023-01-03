@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KevinT001
+- 👋 Hi, I’m Kevin Ta
 - 👀 I’m interested in Corgis, puzzles, fishing and podcasts.
 - 🌱 I’m currently learning at Turing School of Software & Design
 

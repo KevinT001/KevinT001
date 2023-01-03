@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KevinT001
-- 👀 I’m interested in Corgis
-- 🌱 I’m currently learning @turing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Corgis, puzzles, fishing and podcasts.
+- 🌱 I’m currently learning at Turing School of Software & Design
+
 
 <!---
 KevinT001/KevinT001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

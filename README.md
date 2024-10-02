@@ -2,8 +2,8 @@
 - Career changing from service industry into the exciting field of software development.
 - Having a growth mindset, constant curiousity, and good collaboration with my team is important to me! 
 - Interests I like are Media: Films, sports, podcasts. Pets/ animals, and rock climbing! 
-- Currently attending Turing School of Software & Design for Backend Engineeering. Graduation date early March 2023.
-- Languages currently focused on javascript,html,css.
+- I Attended Turing School of Software & Design for Backend Engineeering with a focus on languages Ruby and Ruby on Rails
+- Languages currently focused on Javascript
 
 
 

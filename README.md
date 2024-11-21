@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kevin!</h1>
+<h1 align="center">Hi 👋, I'm Kevin Ta!</h1>
 <h3 align="center">A passionate Software Engineer with an interest in SaaS and Hospitality</h3>
 
 - 📫 How to reach me **kevinta.dev@gmail.com**
